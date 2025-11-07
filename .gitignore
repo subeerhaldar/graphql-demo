@@ -1,0 +1,48 @@
+# .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+*.vsidx
+
+# Visual Studio
+.vs/
+.vscode/
+*.sln
+*.csproj.user
+*.suo
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+.nuget/
+
+# IDEs
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.xml
+
+# Logs
+logs/
+*.log
+
+# Secrets
+appsettings.Development.json
+secrets.json
