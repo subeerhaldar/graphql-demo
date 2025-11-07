@@ -18,7 +18,15 @@ cd GraphQLDemo
 dotnet run
 ```
 
-The application will start on https://localhost:5001 (or similar).
+The application will start on http://localhost:5213 (or similar).
+
+## Testing the APIs
+
+### REST API Testing
+- **Swagger UI**: Visit `http://localhost:5213/swagger` to test REST endpoints interactively
+
+### GraphQL API Testing
+- **Banana Cake Pop**: Visit `http://localhost:5213/graphql` to test GraphQL queries and mutations interactively in your browser
 
 ## REST API Endpoints
 
